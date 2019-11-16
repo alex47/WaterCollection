@@ -2,7 +2,7 @@
 
 Written purely in QML.
 
-The program calculates how many units of water would be accumulated between the bars if if rained.
+The program calculates how many units of water would be accumulated between the bars if it rained.
 
 See this explanation:
 ![GitHub Logo](/screenshot/1571459700526.png)
